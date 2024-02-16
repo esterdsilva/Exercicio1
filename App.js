@@ -21,3 +21,6 @@ const styles = StyleSheet.create({
 });
 
 export default App;
+
+
+//rm 97798- Ester Dutra da Silva
